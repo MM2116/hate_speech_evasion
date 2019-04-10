@@ -1,0 +1,22 @@
+#GOOOOGLE API on words_2
+from googleapiclient import discovery
+from time import sleep
+
+API_KEY='AIzaSyDODdX0DgvdJIDlm_yoGooHN72SMkXAZZg'
+n_words_list =['hate','dislike','fuck']
+n_word_json_list = []
+# Generates API client object dynamically based on service name and version.
+service = discovery.build('commentanalyzer', 'v1alpha1', developerKey=API_KEY)
+for values in n_words_list:
+    #print(values)    
+    analyze_request = {
+      'comment': { 'text': values },
+      'requestedAttributes': {'TOXICITY': {}}
+    }
+
+    response = service.comments().analyze(body=analyze_request).execute()
+    toxicity_score = response['attributeScores']['TOXICITY']['summaryScore']['value']
+    n_word_json = {'word': values, 'offensive_score': toxicity_score}
+    n_word_json_list.append(n_word_json)
+    sleep(0.5)
+print(n_word_json_list)
