@@ -1,0 +1,4758 @@
+[
+    {
+        "word": "2-faced",
+        "offensive_score": 0.32124096
+    },
+    {
+        "word": "2-faces",
+        "offensive_score": 0.079004005
+    },
+    {
+        "word": "abnormal",
+        "offensive_score": 0.3747388
+    },
+    {
+        "word": "abolish",
+        "offensive_score": 0.08460122
+    },
+    {
+        "word": "abominable",
+        "offensive_score": 0.43964028
+    },
+    {
+        "word": "abominably",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "abominate",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "abomination",
+        "offensive_score": 0.36620697
+    },
+    {
+        "word": "abort",
+        "offensive_score": 0.43182987
+    },
+    {
+        "word": "aborted",
+        "offensive_score": 0.43785897
+    },
+    {
+        "word": "aborts",
+        "offensive_score": 0.072040364
+    },
+    {
+        "word": "abrade",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "abrasive",
+        "offensive_score": 0.08453659
+    },
+    {
+        "word": "abrupt",
+        "offensive_score": 0.056905374
+    },
+    {
+        "word": "abruptly",
+        "offensive_score": 0.05606309
+    },
+    {
+        "word": "abscond",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "absence",
+        "offensive_score": 0.0158067
+    },
+    {
+        "word": "absent-minded",
+        "offensive_score": 0.32373568
+    },
+    {
+        "word": "absentee",
+        "offensive_score": 0.065571554
+    },
+    {
+        "word": "absurd",
+        "offensive_score": 0.28201678
+    },
+    {
+        "word": "absurdity",
+        "offensive_score": 0.17004085
+    },
+    {
+        "word": "absurdly",
+        "offensive_score": 0.03400271
+    },
+    {
+        "word": "absurdness",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "abuse",
+        "offensive_score": 0.2763805
+    },
+    {
+        "word": "abused",
+        "offensive_score": 0.28212637
+    },
+    {
+        "word": "abuses",
+        "offensive_score": 0.11976702
+    },
+    {
+        "word": "abusive",
+        "offensive_score": 0.20425762
+    },
+    {
+        "word": "abysmal",
+        "offensive_score": 0.24326131
+    },
+    {
+        "word": "abysmally",
+        "offensive_score": 0.17369668
+    },
+    {
+        "word": "abyss",
+        "offensive_score": 0.118506104
+    },
+    {
+        "word": "accidental",
+        "offensive_score": 0.11128615
+    },
+    {
+        "word": "accost",
+        "offensive_score": 0.10676155
+    },
+    {
+        "word": "accursed",
+        "offensive_score": 0.8138916
+    },
+    {
+        "word": "accusation",
+        "offensive_score": 0.094042815
+    },
+    {
+        "word": "accusations",
+        "offensive_score": 0.07480048
+    },
+    {
+        "word": "accuse",
+        "offensive_score": 0.08977511
+    },
+    {
+        "word": "accuses",
+        "offensive_score": 0.07115141
+    },
+    {
+        "word": "accusing",
+        "offensive_score": 0.0661634
+    },
+    {
+        "word": "accusingly",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "acerbate",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "acerbic",
+        "offensive_score": 0.10595862
+    },
+    {
+        "word": "ache",
+        "offensive_score": 0.06585956
+    },
+    {
+        "word": "ached",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "aches",
+        "offensive_score": 0.03294366
+    },
+    {
+        "word": "achey",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "aching",
+        "offensive_score": 0.10257286
+    },
+    {
+        "word": "acrid",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "acridly",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "acridness",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "acrimonious",
+        "offensive_score": 0.072884105
+    },
+    {
+        "word": "acrimoniously",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "acrimony",
+        "offensive_score": 0.050881255
+    },
+    {
+        "word": "adamant",
+        "offensive_score": 0.051521245
+    },
+    {
+        "word": "adamantly",
+        "offensive_score": 0.047823228
+    },
+    {
+        "word": "addict",
+        "offensive_score": 0.27789432
+    },
+    {
+        "word": "addicted",
+        "offensive_score": 0.078192525
+    },
+    {
+        "word": "addicting",
+        "offensive_score": 0.03523557
+    },
+    {
+        "word": "addicts",
+        "offensive_score": 0.22940506
+    },
+    {
+        "word": "admonish",
+        "offensive_score": 0.066896245
+    },
+    {
+        "word": "admonisher",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "admonishingly",
+        "offensive_score": 0.20838612
+    },
+    {
+        "word": "admonishment",
+        "offensive_score": 0.072574735
+    },
+    {
+        "word": "admonition",
+        "offensive_score": 0.019531662
+    },
+    {
+        "word": "adulterate",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "adulterated",
+        "offensive_score": 0.06674309
+    },
+    {
+        "word": "adulteration",
+        "offensive_score": 0.04458032
+    },
+    {
+        "word": "adversarial",
+        "offensive_score": 0.017451754
+    },
+    {
+        "word": "adversary",
+        "offensive_score": 0.044247158
+    },
+    {
+        "word": "adverse",
+        "offensive_score": 0.026447818
+    },
+    {
+        "word": "adversity",
+        "offensive_score": 0.02592745
+    },
+    {
+        "word": "afflict",
+        "offensive_score": 0.067289434
+    },
+    {
+        "word": "affliction",
+        "offensive_score": 0.058223087
+    },
+    {
+        "word": "afflictive",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "affront",
+        "offensive_score": 0.1258139
+    },
+    {
+        "word": "afraid",
+        "offensive_score": 0.072754264
+    },
+    {
+        "word": "aggravate",
+        "offensive_score": 0.053854812
+    },
+    {
+        "word": "aggravating",
+        "offensive_score": 0.06438387
+    },
+    {
+        "word": "aggravation",
+        "offensive_score": 0.071435094
+    },
+    {
+        "word": "aggression",
+        "offensive_score": 0.23902503
+    },
+    {
+        "word": "aggressive",
+        "offensive_score": 0.107912585
+    },
+    {
+        "word": "aggressiveness",
+        "offensive_score": 0.03601465
+    },
+    {
+        "word": "aggressor",
+        "offensive_score": 0.15767244
+    },
+    {
+        "word": "aggrieve",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "aggrieved",
+        "offensive_score": 0.10294863
+    },
+    {
+        "word": "aggrivation",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "aghast",
+        "offensive_score": 0.09008224
+    },
+    {
+        "word": "agonies",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "agonize",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "agonizing",
+        "offensive_score": 0.09518931
+    },
+    {
+        "word": "agonizingly",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "agony",
+        "offensive_score": 0.08157847
+    },
+    {
+        "word": "aground",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "ail",
+        "offensive_score": 0.049374
+    },
+    {
+        "word": "ailing",
+        "offensive_score": 0.10093352
+    },
+    {
+        "word": "ailment",
+        "offensive_score": 0.03009626
+    },
+    {
+        "word": "aimless",
+        "offensive_score": 0.05139668
+    },
+    {
+        "word": "alarm",
+        "offensive_score": 0.06068317
+    },
+    {
+        "word": "alarmed",
+        "offensive_score": 0.07092817
+    },
+    {
+        "word": "alarming",
+        "offensive_score": 0.045080386
+    },
+    {
+        "word": "alarmingly",
+        "offensive_score": 0.035176396
+    },
+    {
+        "word": "alienate",
+        "offensive_score": 0.21150327
+    },
+    {
+        "word": "alienated",
+        "offensive_score": 0.09087191
+    },
+    {
+        "word": "alienation",
+        "offensive_score": 0.05385274
+    },
+    {
+        "word": "allegation",
+        "offensive_score": 0.04866998
+    },
+    {
+        "word": "allegations",
+        "offensive_score": 0.03600542
+    },
+    {
+        "word": "allege",
+        "offensive_score": 0.048762128
+    },
+    {
+        "word": "allergic",
+        "offensive_score": 0.12039755
+    },
+    {
+        "word": "allergies",
+        "offensive_score": 0.065586776
+    },
+    {
+        "word": "allergy",
+        "offensive_score": 0.037418757
+    },
+    {
+        "word": "aloof",
+        "offensive_score": 0.1090953
+    },
+    {
+        "word": "altercation",
+        "offensive_score": 0.059313364
+    },
+    {
+        "word": "ambiguity",
+        "offensive_score": 0.027897114
+    },
+    {
+        "word": "ambiguous",
+        "offensive_score": 0.047576096
+    },
+    {
+        "word": "ambivalence",
+        "offensive_score": 0.03493304
+    },
+    {
+        "word": "ambivalent",
+        "offensive_score": 0.036978845
+    },
+    {
+        "word": "ambush",
+        "offensive_score": 0.124232486
+    },
+    {
+        "word": "amiss",
+        "offensive_score": 0.04504321
+    },
+    {
+        "word": "amputate",
+        "offensive_score": 0.16256192
+    },
+    {
+        "word": "anarchism",
+        "offensive_score": 0.0963848
+    },
+    {
+        "word": "anarchist",
+        "offensive_score": 0.17929156
+    },
+    {
+        "word": "anarchistic",
+        "offensive_score": 0.07466828
+    },
+    {
+        "word": "anarchy",
+        "offensive_score": 0.07134654
+    },
+    {
+        "word": "anemic",
+        "offensive_score": 0.08947724
+    },
+    {
+        "word": "anger",
+        "offensive_score": 0.14199522
+    },
+    {
+        "word": "angrily",
+        "offensive_score": 0.09240195
+    },
+    {
+        "word": "angriness",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "angry",
+        "offensive_score": 0.075639285
+    },
+    {
+        "word": "anguish",
+        "offensive_score": 0.0753507
+    },
+    {
+        "word": "animosity",
+        "offensive_score": 0.04261409
+    },
+    {
+        "word": "annihilate",
+        "offensive_score": 0.48194566
+    },
+    {
+        "word": "annihilation",
+        "offensive_score": 0.39786777
+    },
+    {
+        "word": "annoy",
+        "offensive_score": 0.28124738
+    },
+    {
+        "word": "annoyance",
+        "offensive_score": 0.07096987
+    },
+    {
+        "word": "annoyances",
+        "offensive_score": 0.06646097
+    },
+    {
+        "word": "annoyed",
+        "offensive_score": 0.15324353
+    },
+    {
+        "word": "annoying",
+        "offensive_score": 0.4615734
+    },
+    {
+        "word": "annoyingly",
+        "offensive_score": 0.20873098
+    },
+    {
+        "word": "annoys",
+        "offensive_score": 0.23307778
+    },
+    {
+        "word": "anomalous",
+        "offensive_score": 0.026487377
+    },
+    {
+        "word": "anomaly",
+        "offensive_score": 0.06615702
+    },
+    {
+        "word": "antagonism",
+        "offensive_score": 0.027102659
+    },
+    {
+        "word": "antagonist",
+        "offensive_score": 0.0801062
+    },
+    {
+        "word": "antagonistic",
+        "offensive_score": 0.06902381
+    },
+    {
+        "word": "antagonize",
+        "offensive_score": 0.104084514
+    },
+    {
+        "word": "anti-",
+        "offensive_score": 0.09359536
+    },
+    {
+        "word": "anti-american",
+        "offensive_score": 0.44925332
+    },
+    {
+        "word": "anti-occupation",
+        "offensive_score": 0.07345046
+    },
+    {
+        "word": "anti-proliferation",
+        "offensive_score": 0.062473968
+    },
+    {
+        "word": "anti-semites",
+        "offensive_score": 0.44062182
+    },
+    {
+        "word": "anti-social",
+        "offensive_score": 0.16105887
+    },
+    {
+        "word": "anti-us",
+        "offensive_score": 0.1622339
+    },
+    {
+        "word": "anti-white",
+        "offensive_score": 0.5685881
+    },
+    {
+        "word": "antipathy",
+        "offensive_score": 0.07238128
+    },
+    {
+        "word": "antiquated",
+        "offensive_score": 0.066387974
+    },
+    {
+        "word": "antithetical",
+        "offensive_score": 0.0917156
+    },
+    {
+        "word": "anxieties",
+        "offensive_score": 0.03612348
+    },
+    {
+        "word": "anxiety",
+        "offensive_score": 0.043964326
+    },
+    {
+        "word": "anxious",
+        "offensive_score": 0.040893346
+    },
+    {
+        "word": "anxiously",
+        "offensive_score": 0.036966883
+    },
+    {
+        "word": "anxiousness",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "apathetic",
+        "offensive_score": 0.07463306
+    },
+    {
+        "word": "apathetically",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "apathy",
+        "offensive_score": 0.06631028
+    },
+    {
+        "word": "apocalypse",
+        "offensive_score": 0.09604215
+    },
+    {
+        "word": "apocalyptic",
+        "offensive_score": 0.13370435
+    },
+    {
+        "word": "apologist",
+        "offensive_score": 0.07418768
+    },
+    {
+        "word": "apologists",
+        "offensive_score": 0.13484067
+    },
+    {
+        "word": "appal",
+        "offensive_score": 0.036842737
+    },
+    {
+        "word": "appall",
+        "offensive_score": 0.19252308
+    },
+    {
+        "word": "appalled",
+        "offensive_score": 0.11630181
+    },
+    {
+        "word": "appalling",
+        "offensive_score": 0.22818416
+    },
+    {
+        "word": "appallingly",
+        "offensive_score": 0.43862045
+    },
+    {
+        "word": "apprehension",
+        "offensive_score": 0.049415894
+    },
+    {
+        "word": "apprehensions",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "apprehensive",
+        "offensive_score": 0.08642408
+    },
+    {
+        "word": "apprehensively",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "arbitrary",
+        "offensive_score": 0.117145546
+    },
+    {
+        "word": "arcane",
+        "offensive_score": 0.03794116
+    },
+    {
+        "word": "archaic",
+        "offensive_score": 0.070028104
+    },
+    {
+        "word": "arduous",
+        "offensive_score": 0.010531782
+    },
+    {
+        "word": "arduously",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "argumentative",
+        "offensive_score": 0.029232154
+    },
+    {
+        "word": "arrogance",
+        "offensive_score": 0.2842433
+    },
+    {
+        "word": "arrogant",
+        "offensive_score": 0.49939474
+    },
+    {
+        "word": "arrogantly",
+        "offensive_score": 0.22273983
+    },
+    {
+        "word": "ashamed",
+        "offensive_score": 0.30401203
+    },
+    {
+        "word": "asinine",
+        "offensive_score": 0.7143426
+    },
+    {
+        "word": "asininely",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "asinininity",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "askance",
+        "offensive_score": 0.036134075
+    },
+    {
+        "word": "asperse",
+        "offensive_score": 0.19252308
+    },
+    {
+        "word": "aspersion",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "aspersions",
+        "offensive_score": 0.06819746
+    },
+    {
+        "word": "assail",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "assassin",
+        "offensive_score": 0.46589994
+    },
+    {
+        "word": "assassinate",
+        "offensive_score": 0.5686073
+    },
+    {
+        "word": "assault",
+        "offensive_score": 0.081762865
+    },
+    {
+        "word": "assult",
+        "offensive_score": 0.03584913
+    },
+    {
+        "word": "astray",
+        "offensive_score": 0.09582341
+    },
+    {
+        "word": "asunder",
+        "offensive_score": 0.089224294
+    },
+    {
+        "word": "atrocious",
+        "offensive_score": 0.29622728
+    },
+    {
+        "word": "atrocities",
+        "offensive_score": 0.2791136
+    },
+    {
+        "word": "atrocity",
+        "offensive_score": 0.31078008
+    },
+    {
+        "word": "atrophy",
+        "offensive_score": 0.069867134
+    },
+    {
+        "word": "attack",
+        "offensive_score": 0.396993
+    },
+    {
+        "word": "attacks",
+        "offensive_score": 0.13629559
+    },
+    {
+        "word": "audacious",
+        "offensive_score": 0.057391904
+    },
+    {
+        "word": "audaciously",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "audaciousness",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "audacity",
+        "offensive_score": 0.053415023
+    },
+    {
+        "word": "austere",
+        "offensive_score": 0.015115871
+    },
+    {
+        "word": "authoritarian",
+        "offensive_score": 0.052012064
+    },
+    {
+        "word": "autocrat",
+        "offensive_score": 0.10884629
+    },
+    {
+        "word": "autocratic",
+        "offensive_score": 0.061099187
+    },
+    {
+        "word": "avalanche",
+        "offensive_score": 0.0952476
+    },
+    {
+        "word": "avarice",
+        "offensive_score": 0.08632882
+    },
+    {
+        "word": "avaricious",
+        "offensive_score": 0.08861994
+    },
+    {
+        "word": "avariciously",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "avenge",
+        "offensive_score": 0.16323347
+    },
+    {
+        "word": "averse",
+        "offensive_score": 0.06601469
+    },
+    {
+        "word": "aversion",
+        "offensive_score": 0.080711134
+    },
+    {
+        "word": "aweful",
+        "offensive_score": 0.11535756
+    },
+    {
+        "word": "awful",
+        "offensive_score": 0.6604657
+    },
+    {
+        "word": "awfully",
+        "offensive_score": 0.19106151
+    },
+    {
+        "word": "awfulness",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "awkward",
+        "offensive_score": 0.1091186
+    },
+    {
+        "word": "awkwardness",
+        "offensive_score": 0.028002143
+    },
+    {
+        "word": "ax",
+        "offensive_score": 0.11932059
+    },
+    {
+        "word": "babble",
+        "offensive_score": 0.113966145
+    },
+    {
+        "word": "back-logged",
+        "offensive_score": 0.046313517
+    },
+    {
+        "word": "back-wood",
+        "offensive_score": 0.081615835
+    },
+    {
+        "word": "back-woods",
+        "offensive_score": 0.06460836
+    },
+    {
+        "word": "backache",
+        "offensive_score": 0.20223655
+    },
+    {
+        "word": "backaches",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "backaching",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "backbite",
+        "offensive_score": 0.20562
+    },
+    {
+        "word": "backbiting",
+        "offensive_score": 0.11691786
+    },
+    {
+        "word": "backward",
+        "offensive_score": 0.118664294
+    },
+    {
+        "word": "backwardness",
+        "offensive_score": 0.07178873
+    },
+    {
+        "word": "backwood",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "backwoods",
+        "offensive_score": 0.084247574
+    },
+    {
+        "word": "bad",
+        "offensive_score": 0.2318324
+    },
+    {
+        "word": "badly",
+        "offensive_score": 0.09745886
+    },
+    {
+        "word": "baffle",
+        "offensive_score": 0.10419122
+    },
+    {
+        "word": "baffled",
+        "offensive_score": 0.047214385
+    },
+    {
+        "word": "bafflement",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "baffling",
+        "offensive_score": 0.112075284
+    },
+    {
+        "word": "bait",
+        "offensive_score": 0.071279965
+    },
+    {
+        "word": "balk",
+        "offensive_score": 0.07089232
+    },
+    {
+        "word": "banal",
+        "offensive_score": 0.09737701
+    },
+    {
+        "word": "banalize",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "bane",
+        "offensive_score": 0.23119995
+    },
+    {
+        "word": "banish",
+        "offensive_score": 0.121942
+    },
+    {
+        "word": "banishment",
+        "offensive_score": 0.23336947
+    },
+    {
+        "word": "bankrupt",
+        "offensive_score": 0.2985553
+    },
+    {
+        "word": "barbarian",
+        "offensive_score": 0.31917888
+    },
+    {
+        "word": "barbaric",
+        "offensive_score": 0.44052473
+    },
+    {
+        "word": "barbarically",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "barbarity",
+        "offensive_score": 0.20864497
+    },
+    {
+        "word": "barbarous",
+        "offensive_score": 0.20499435
+    },
+    {
+        "word": "barbarously",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "barren",
+        "offensive_score": 0.068735816
+    },
+    {
+        "word": "baseless",
+        "offensive_score": 0.07462397
+    },
+    {
+        "word": "bash",
+        "offensive_score": 0.08876499
+    },
+    {
+        "word": "bashed",
+        "offensive_score": 0.22909446
+    },
+    {
+        "word": "bashful",
+        "offensive_score": 0.19252308
+    },
+    {
+        "word": "bashing",
+        "offensive_score": 0.15356266
+    },
+    {
+        "word": "bastard",
+        "offensive_score": 0.9665658
+    },
+    {
+        "word": "bastards",
+        "offensive_score": 0.95772845
+    },
+    {
+        "word": "battered",
+        "offensive_score": 0.16414052
+    },
+    {
+        "word": "battering",
+        "offensive_score": 0.1489211
+    },
+    {
+        "word": "batty",
+        "offensive_score": 0.1812489
+    },
+    {
+        "word": "bearish",
+        "offensive_score": 0.192523
+    },
+    {
+        "word": "beastly",
+        "offensive_score": 0.104427144
+    },
+    {
+        "word": "bedlam",
+        "offensive_score": 0.064263575
+    },
+    {
+        "word": "bedlamite",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "befoul",
+        "offensive_score": 0.20838611
+    },
+    {
+        "word": "beg",
+        "offensive_score": 0.04032236
+    },
+    {
+        "word": "beggar",
+        "offensive_score": 0.203031
+    },
+    {
+        "word": "beggarly",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "begging",
+        "offensive_score": 0.068134196
+    },
+    {
+        "word": "beguile",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "belabor",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "belated",
+        "offensive_score": 0.06363255
+    },
+    {
+        "word": "beleaguer",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "belie",
+        "offensive_score": 0.038282204
+    },
+    {
+        "word": "belittle",
+        "offensive_score": 0.11299662
+    },
+    {
+        "word": "belittled",
+        "offensive_score": 0.11720152
+    },
+    {
+        "word": "belittling",
+        "offensive_score": 0.1358278
+    },
+    {
+        "word": "bellicose",
+        "offensive_score": 0.1416659
+    },
+    {
+        "word": "belligerence",
+        "offensive_score": 0.052538905
+    },
+    {
+        "word": "belligerent",
+        "offensive_score": 0.06236706
+    },
+    {
+        "word": "belligerently",
+        "offensive_score": 0.14861149
+    },
+    {
+        "word": "bemoan",
+        "offensive_score": 0.10676524
+    },
+    {
+        "word": "bemoaning",
+        "offensive_score": 0.15359361
+    },
+    {
+        "word": "bemused",
+        "offensive_score": 0.11928649
+    },
+    {
+        "word": "bent",
+        "offensive_score": 0.06724279
+    },
+    {
+        "word": "berate",
+        "offensive_score": 0.15297197
+    },
+    {
+        "word": "bereave",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "bereavement",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "bereft",
+        "offensive_score": 0.15449633
+    },
+    {
+        "word": "berserk",
+        "offensive_score": 0.10907582
+    },
+    {
+        "word": "beseech",
+        "offensive_score": 0.028800303
+    },
+    {
+        "word": "beset",
+        "offensive_score": 0.07168052
+    },
+    {
+        "word": "besiege",
+        "offensive_score": 0.07495931
+    },
+    {
+        "word": "besmirch",
+        "offensive_score": 0.08645424
+    },
+    {
+        "word": "bestial",
+        "offensive_score": 0.21813829
+    },
+    {
+        "word": "betray",
+        "offensive_score": 0.1247119
+    },
+    {
+        "word": "betrayal",
+        "offensive_score": 0.1211939
+    },
+    {
+        "word": "betrayals",
+        "offensive_score": 0.093846366
+    },
+    {
+        "word": "betrayer",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "betraying",
+        "offensive_score": 0.24388775
+    },
+    {
+        "word": "betrays",
+        "offensive_score": 0.06622318
+    },
+    {
+        "word": "bewail",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "beware",
+        "offensive_score": 0.118347414
+    },
+    {
+        "word": "bewilder",
+        "offensive_score": 0.192523
+    },
+    {
+        "word": "bewildered",
+        "offensive_score": 0.09296045
+    },
+    {
+        "word": "bewildering",
+        "offensive_score": 0.13389575
+    },
+    {
+        "word": "bewilderingly",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "bewilderment",
+        "offensive_score": 0.06838633
+    },
+    {
+        "word": "bewitch",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "bias",
+        "offensive_score": 0.052985333
+    },
+    {
+        "word": "biased",
+        "offensive_score": 0.074588396
+    },
+    {
+        "word": "biases",
+        "offensive_score": 0.025862573
+    },
+    {
+        "word": "bicker",
+        "offensive_score": 0.046039984
+    },
+    {
+        "word": "bickering",
+        "offensive_score": 0.1507949
+    },
+    {
+        "word": "bid-rigging",
+        "offensive_score": 0.16576445
+    },
+    {
+        "word": "bigotries",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "bigotry",
+        "offensive_score": 0.09332616
+    },
+    {
+        "word": "bitch",
+        "offensive_score": 0.9818121
+    },
+    {
+        "word": "bitchy",
+        "offensive_score": 0.95048803
+    },
+    {
+        "word": "biting",
+        "offensive_score": 0.12883614
+    },
+    {
+        "word": "bitingly",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "bitter",
+        "offensive_score": 0.16179793
+    },
+    {
+        "word": "bitterly",
+        "offensive_score": 0.07133165
+    },
+    {
+        "word": "bitterness",
+        "offensive_score": 0.055888496
+    },
+    {
+        "word": "bizarre",
+        "offensive_score": 0.079661444
+    },
+    {
+        "word": "blab",
+        "offensive_score": 0.12220734
+    },
+    {
+        "word": "blabber",
+        "offensive_score": 0.19810474
+    },
+    {
+        "word": "blackmail",
+        "offensive_score": 0.23286891
+    },
+    {
+        "word": "blah",
+        "offensive_score": 0.24932355
+    },
+    {
+        "word": "blame",
+        "offensive_score": 0.11612782
+    },
+    {
+        "word": "blameworthy",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "bland",
+        "offensive_score": 0.21585776
+    },
+    {
+        "word": "blandish",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "blaspheme",
+        "offensive_score": 0.201784
+    },
+    {
+        "word": "blasphemous",
+        "offensive_score": 0.29420334
+    },
+    {
+        "word": "blasphemy",
+        "offensive_score": 0.3161566
+    },
+    {
+        "word": "blasted",
+        "offensive_score": 0.38187525
+    },
+    {
+        "word": "blatant",
+        "offensive_score": 0.086611904
+    },
+    {
+        "word": "blatantly",
+        "offensive_score": 0.07057665
+    },
+    {
+        "word": "blather",
+        "offensive_score": 0.3215393
+    },
+    {
+        "word": "bleak",
+        "offensive_score": 0.056765195
+    },
+    {
+        "word": "bleakly",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "bleakness",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "bleed",
+        "offensive_score": 0.14863716
+    },
+    {
+        "word": "bleeding",
+        "offensive_score": 0.070025966
+    },
+    {
+        "word": "bleeds",
+        "offensive_score": 0.08460418
+    },
+    {
+        "word": "blemish",
+        "offensive_score": 0.10555135
+    },
+    {
+        "word": "blind",
+        "offensive_score": 0.15143149
+    },
+    {
+        "word": "blinding",
+        "offensive_score": 0.029895974
+    },
+    {
+        "word": "blindingly",
+        "offensive_score": 0.014215812
+    },
+    {
+        "word": "blindside",
+        "offensive_score": 0.20147702
+    },
+    {
+        "word": "blister",
+        "offensive_score": 0.016789453
+    },
+    {
+        "word": "blistering",
+        "offensive_score": 0.28665763
+    },
+    {
+        "word": "bloated",
+        "offensive_score": 0.06595306
+    },
+    {
+        "word": "blockage",
+        "offensive_score": 0.04930594
+    },
+    {
+        "word": "blockhead",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "bloodshed",
+        "offensive_score": 0.43501717
+    },
+    {
+        "word": "bloodthirsty",
+        "offensive_score": 0.28850102
+    },
+    {
+        "word": "bloody",
+        "offensive_score": 0.321278
+    },
+    {
+        "word": "blotchy",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "blow",
+        "offensive_score": 0.29800647
+    },
+    {
+        "word": "blunder",
+        "offensive_score": 0.06890998
+    },
+    {
+        "word": "blundering",
+        "offensive_score": 0.17675494
+    },
+    {
+        "word": "blunders",
+        "offensive_score": 0.19530483
+    },
+    {
+        "word": "blunt",
+        "offensive_score": 0.11397844
+    },
+    {
+        "word": "blur",
+        "offensive_score": 0.048167635
+    },
+    {
+        "word": "bluring",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "blurred",
+        "offensive_score": 0.050051723
+    },
+    {
+        "word": "blurring",
+        "offensive_score": 0.0239485
+    },
+    {
+        "word": "blurry",
+        "offensive_score": 0.06663594
+    },
+    {
+        "word": "blurs",
+        "offensive_score": 0.025500277
+    },
+    {
+        "word": "blurt",
+        "offensive_score": 0.15325685
+    },
+    {
+        "word": "boastful",
+        "offensive_score": 0.099241905
+    },
+    {
+        "word": "boggle",
+        "offensive_score": 0.054397684
+    },
+    {
+        "word": "bogus",
+        "offensive_score": 0.1619873
+    },
+    {
+        "word": "boil",
+        "offensive_score": 0.11709698
+    },
+    {
+        "word": "boiling",
+        "offensive_score": 0.0740751
+    },
+    {
+        "word": "boisterous",
+        "offensive_score": 0.069518454
+    },
+    {
+        "word": "bomb",
+        "offensive_score": 0.23656215
+    },
+    {
+        "word": "bombard",
+        "offensive_score": 0.15431851
+    },
+    {
+        "word": "bombardment",
+        "offensive_score": 0.123701505
+    },
+    {
+        "word": "bombastic",
+        "offensive_score": 0.06917254
+    },
+    {
+        "word": "bondage",
+        "offensive_score": 0.23532557
+    },
+    {
+        "word": "bonkers",
+        "offensive_score": 0.45731917
+    },
+    {
+        "word": "bore",
+        "offensive_score": 0.09792426
+    },
+    {
+        "word": "bored",
+        "offensive_score": 0.03813848
+    },
+    {
+        "word": "boredom",
+        "offensive_score": 0.071989484
+    },
+    {
+        "word": "bores",
+        "offensive_score": 0.19865501
+    },
+    {
+        "word": "boring",
+        "offensive_score": 0.4412988
+    },
+    {
+        "word": "botch",
+        "offensive_score": 0.4385658
+    },
+    {
+        "word": "bother",
+        "offensive_score": 0.06498638
+    },
+    {
+        "word": "bothered",
+        "offensive_score": 0.07168151
+    },
+    {
+        "word": "bothering",
+        "offensive_score": 0.10152341
+    },
+    {
+        "word": "bothers",
+        "offensive_score": 0.077474
+    },
+    {
+        "word": "bothersome",
+        "offensive_score": 0.070985325
+    },
+    {
+        "word": "bowdlerize",
+        "offensive_score": 0.20147702
+    },
+    {
+        "word": "boycott",
+        "offensive_score": 0.11815782
+    },
+    {
+        "word": "braggart",
+        "offensive_score": 0.53144854
+    },
+    {
+        "word": "bragger",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "stagnant",
+        "offensive_score": 0.069614485
+    },
+    {
+        "word": "stagnate",
+        "offensive_score": 0.0893257
+    },
+    {
+        "word": "stagnation",
+        "offensive_score": 0.049178172
+    },
+    {
+        "word": "staid",
+        "offensive_score": 0.07947149
+    },
+    {
+        "word": "stain",
+        "offensive_score": 0.19327258
+    },
+    {
+        "word": "stains",
+        "offensive_score": 0.14290969
+    },
+    {
+        "word": "stale",
+        "offensive_score": 0.2354296
+    },
+    {
+        "word": "stalemate",
+        "offensive_score": 0.07594219
+    },
+    {
+        "word": "stall",
+        "offensive_score": 0.069593534
+    },
+    {
+        "word": "stalls",
+        "offensive_score": 0.06577264
+    },
+    {
+        "word": "stammer",
+        "offensive_score": 0.118680544
+    },
+    {
+        "word": "stampede",
+        "offensive_score": 0.11535914
+    },
+    {
+        "word": "standstill",
+        "offensive_score": 0.09283255
+    },
+    {
+        "word": "stark",
+        "offensive_score": 0.04803702
+    },
+    {
+        "word": "starkly",
+        "offensive_score": 0.019959439
+    },
+    {
+        "word": "startle",
+        "offensive_score": 0.21229206
+    },
+    {
+        "word": "startling",
+        "offensive_score": 0.06380821
+    },
+    {
+        "word": "startlingly",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "starvation",
+        "offensive_score": 0.048804387
+    },
+    {
+        "word": "starve",
+        "offensive_score": 0.45786995
+    },
+    {
+        "word": "static",
+        "offensive_score": 0.042615812
+    },
+    {
+        "word": "steal",
+        "offensive_score": 0.37065598
+    },
+    {
+        "word": "stealing",
+        "offensive_score": 0.18515857
+    },
+    {
+        "word": "steals",
+        "offensive_score": 0.4416514
+    },
+    {
+        "word": "steep",
+        "offensive_score": 0.03355315
+    },
+    {
+        "word": "steeply",
+        "offensive_score": 0.19252308
+    },
+    {
+        "word": "stench",
+        "offensive_score": 0.26598218
+    },
+    {
+        "word": "stereotype",
+        "offensive_score": 0.05741138
+    },
+    {
+        "word": "stereotypical",
+        "offensive_score": 0.029245673
+    },
+    {
+        "word": "stereotypically",
+        "offensive_score": 0.037226856
+    },
+    {
+        "word": "stern",
+        "offensive_score": 0.05262646
+    },
+    {
+        "word": "stew",
+        "offensive_score": 0.068451196
+    },
+    {
+        "word": "sticky",
+        "offensive_score": 0.0541372
+    },
+    {
+        "word": "stiff",
+        "offensive_score": 0.19224899
+    },
+    {
+        "word": "stiffness",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "stifle",
+        "offensive_score": 0.109573506
+    },
+    {
+        "word": "stifling",
+        "offensive_score": 0.14871955
+    },
+    {
+        "word": "stiflingly",
+        "offensive_score": 0.19252308
+    },
+    {
+        "word": "stigma",
+        "offensive_score": 0.068477586
+    },
+    {
+        "word": "stigmatize",
+        "offensive_score": 0.19710977
+    },
+    {
+        "word": "sting",
+        "offensive_score": 0.07169162
+    },
+    {
+        "word": "stinging",
+        "offensive_score": 0.2209506
+    },
+    {
+        "word": "stingingly",
+        "offensive_score": 0.19252308
+    },
+    {
+        "word": "stingy",
+        "offensive_score": 0.437036
+    },
+    {
+        "word": "stink",
+        "offensive_score": 0.5337358
+    },
+    {
+        "word": "stinks",
+        "offensive_score": 0.78585804
+    },
+    {
+        "word": "stodgy",
+        "offensive_score": 0.123888016
+    },
+    {
+        "word": "stole",
+        "offensive_score": 0.3042887
+    },
+    {
+        "word": "stolen",
+        "offensive_score": 0.29209897
+    },
+    {
+        "word": "stooge",
+        "offensive_score": 0.18783262
+    },
+    {
+        "word": "stooges",
+        "offensive_score": 0.4953698
+    },
+    {
+        "word": "stormy",
+        "offensive_score": 0.023211112
+    },
+    {
+        "word": "straggle",
+        "offensive_score": 0.19252308
+    },
+    {
+        "word": "straggler",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "strain",
+        "offensive_score": 0.042729802
+    },
+    {
+        "word": "strained",
+        "offensive_score": 0.052067205
+    },
+    {
+        "word": "straining",
+        "offensive_score": 0.06682656
+    },
+    {
+        "word": "strange",
+        "offensive_score": 0.05550969
+    },
+    {
+        "word": "strangely",
+        "offensive_score": 0.040979702
+    },
+    {
+        "word": "stranger",
+        "offensive_score": 0.027940491
+    },
+    {
+        "word": "strangest",
+        "offensive_score": 0.081381254
+    },
+    {
+        "word": "strangle",
+        "offensive_score": 0.31750286
+    },
+    {
+        "word": "streaky",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "strenuous",
+        "offensive_score": 0.014597869
+    },
+    {
+        "word": "stress",
+        "offensive_score": 0.038643546
+    },
+    {
+        "word": "stresses",
+        "offensive_score": 0.016106034
+    },
+    {
+        "word": "stressful",
+        "offensive_score": 0.059854038
+    },
+    {
+        "word": "stressfully",
+        "offensive_score": 0.20147702
+    },
+    {
+        "word": "stricken",
+        "offensive_score": 0.13646425
+    },
+    {
+        "word": "strict",
+        "offensive_score": 0.018926887
+    },
+    {
+        "word": "strictly",
+        "offensive_score": 0.01315641
+    },
+    {
+        "word": "strident",
+        "offensive_score": 0.12873702
+    },
+    {
+        "word": "stridently",
+        "offensive_score": 0.08456103
+    },
+    {
+        "word": "strife",
+        "offensive_score": 0.22443675
+    },
+    {
+        "word": "strike",
+        "offensive_score": 0.08020286
+    },
+    {
+        "word": "stringent",
+        "offensive_score": 0.030693362
+    },
+    {
+        "word": "stringently",
+        "offensive_score": 0.008975048
+    },
+    {
+        "word": "struck",
+        "offensive_score": 0.11159436
+    },
+    {
+        "word": "struggle",
+        "offensive_score": 0.07172421
+    },
+    {
+        "word": "struggled",
+        "offensive_score": 0.044926472
+    },
+    {
+        "word": "struggles",
+        "offensive_score": 0.043503407
+    },
+    {
+        "word": "struggling",
+        "offensive_score": 0.06426612
+    },
+    {
+        "word": "strut",
+        "offensive_score": 0.06762996
+    },
+    {
+        "word": "stubborn",
+        "offensive_score": 0.19553678
+    },
+    {
+        "word": "stubbornly",
+        "offensive_score": 0.04788883
+    },
+    {
+        "word": "stubbornness",
+        "offensive_score": 0.06961589
+    },
+    {
+        "word": "stuck",
+        "offensive_score": 0.1297642
+    },
+    {
+        "word": "stuffy",
+        "offensive_score": 0.26893422
+    },
+    {
+        "word": "stumble",
+        "offensive_score": 0.069155544
+    },
+    {
+        "word": "stumbled",
+        "offensive_score": 0.074500784
+    },
+    {
+        "word": "stumbles",
+        "offensive_score": 0.057597723
+    },
+    {
+        "word": "stump",
+        "offensive_score": 0.0641898
+    },
+    {
+        "word": "stumped",
+        "offensive_score": 0.042559464
+    },
+    {
+        "word": "stumps",
+        "offensive_score": 0.071084745
+    },
+    {
+        "word": "stun",
+        "offensive_score": 0.11681438
+    },
+    {
+        "word": "stunt",
+        "offensive_score": 0.37196782
+    },
+    {
+        "word": "stunted",
+        "offensive_score": 0.318031
+    },
+    {
+        "word": "stupid",
+        "offensive_score": 0.95352274
+    },
+    {
+        "word": "stupidest",
+        "offensive_score": 0.90799904
+    },
+    {
+        "word": "stupidity",
+        "offensive_score": 0.87121814
+    },
+    {
+        "word": "stupidly",
+        "offensive_score": 0.76644164
+    },
+    {
+        "word": "stupified",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "stupify",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "stupor",
+        "offensive_score": 0.061960947
+    },
+    {
+        "word": "stutter",
+        "offensive_score": 0.17540513
+    },
+    {
+        "word": "stuttered",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "stuttering",
+        "offensive_score": 0.22761942
+    },
+    {
+        "word": "stutters",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "sty",
+        "offensive_score": 0.12014068
+    },
+    {
+        "word": "stymied",
+        "offensive_score": 0.08919914
+    },
+    {
+        "word": "sub-par",
+        "offensive_score": 0.061339743
+    },
+    {
+        "word": "subdued",
+        "offensive_score": 0.06275974
+    },
+    {
+        "word": "subjected",
+        "offensive_score": 0.06385665
+    },
+    {
+        "word": "subjection",
+        "offensive_score": 0.065423846
+    },
+    {
+        "word": "subjugate",
+        "offensive_score": 0.12121413
+    },
+    {
+        "word": "subjugation",
+        "offensive_score": 0.063638434
+    },
+    {
+        "word": "submissive",
+        "offensive_score": 0.12053932
+    },
+    {
+        "word": "subordinate",
+        "offensive_score": 0.03967827
+    },
+    {
+        "word": "subpoena",
+        "offensive_score": 0.07147907
+    },
+    {
+        "word": "subpoenas",
+        "offensive_score": 0.06473109
+    },
+    {
+        "word": "subservience",
+        "offensive_score": 0.066602975
+    },
+    {
+        "word": "subservient",
+        "offensive_score": 0.12074157
+    },
+    {
+        "word": "substandard",
+        "offensive_score": 0.36627132
+    },
+    {
+        "word": "subtract",
+        "offensive_score": 0.02837811
+    },
+    {
+        "word": "subversion",
+        "offensive_score": 0.0941913
+    },
+    {
+        "word": "subversive",
+        "offensive_score": 0.117423594
+    },
+    {
+        "word": "subversively",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "subvert",
+        "offensive_score": 0.0717634
+    },
+    {
+        "word": "succumb",
+        "offensive_score": 0.0915176
+    },
+    {
+        "word": "suck",
+        "offensive_score": 0.9133868
+    },
+    {
+        "word": "sucked",
+        "offensive_score": 0.7664999
+    },
+    {
+        "word": "sucker",
+        "offensive_score": 0.79581267
+    },
+    {
+        "word": "sucks",
+        "offensive_score": 0.92703164
+    },
+    {
+        "word": "sucky",
+        "offensive_score": 0.76077294
+    },
+    {
+        "word": "sue",
+        "offensive_score": 0.06744736
+    },
+    {
+        "word": "sued",
+        "offensive_score": 0.114046834
+    },
+    {
+        "word": "sueing",
+        "offensive_score": 0.13511994
+    },
+    {
+        "word": "sues",
+        "offensive_score": 0.06844781
+    },
+    {
+        "word": "suffer",
+        "offensive_score": 0.14691822
+    },
+    {
+        "word": "suffered",
+        "offensive_score": 0.027817532
+    },
+    {
+        "word": "sufferer",
+        "offensive_score": 0.15473431
+    },
+    {
+        "word": "sufferers",
+        "offensive_score": 0.06936522
+    },
+    {
+        "word": "suffering",
+        "offensive_score": 0.13952492
+    },
+    {
+        "word": "suffers",
+        "offensive_score": 0.10354228
+    },
+    {
+        "word": "suffocate",
+        "offensive_score": 0.4427571
+    },
+    {
+        "word": "sugar-coat",
+        "offensive_score": 0.055301156
+    },
+    {
+        "word": "sugar-coated",
+        "offensive_score": 0.046923704
+    },
+    {
+        "word": "sugarcoated",
+        "offensive_score": 0.19252308
+    },
+    {
+        "word": "suicidal",
+        "offensive_score": 0.43919796
+    },
+    {
+        "word": "suicide",
+        "offensive_score": 0.56927866
+    },
+    {
+        "word": "sulk",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "sullen",
+        "offensive_score": 0.09738757
+    },
+    {
+        "word": "sully",
+        "offensive_score": 0.12838373
+    },
+    {
+        "word": "sunder",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "sunk",
+        "offensive_score": 0.084065564
+    },
+    {
+        "word": "sunken",
+        "offensive_score": 0.050576482
+    },
+    {
+        "word": "superficial",
+        "offensive_score": 0.10552608
+    },
+    {
+        "word": "superficiality",
+        "offensive_score": 0.06654073
+    },
+    {
+        "word": "superficially",
+        "offensive_score": 0.020836085
+    },
+    {
+        "word": "superfluous",
+        "offensive_score": 0.07203891
+    },
+    {
+        "word": "superstition",
+        "offensive_score": 0.021311173
+    },
+    {
+        "word": "superstitious",
+        "offensive_score": 0.06721898
+    },
+    {
+        "word": "suppress",
+        "offensive_score": 0.02439358
+    },
+    {
+        "word": "suppression",
+        "offensive_score": 0.04284681
+    },
+    {
+        "word": "surrender",
+        "offensive_score": 0.016308403
+    },
+    {
+        "word": "susceptible",
+        "offensive_score": 0.11293106
+    },
+    {
+        "word": "suspect",
+        "offensive_score": 0.043303117
+    },
+    {
+        "word": "suspicion",
+        "offensive_score": 0.04336369
+    },
+    {
+        "word": "suspicions",
+        "offensive_score": 0.06473471
+    },
+    {
+        "word": "suspicious",
+        "offensive_score": 0.05444637
+    },
+    {
+        "word": "suspiciously",
+        "offensive_score": 0.035916116
+    },
+    {
+        "word": "swagger",
+        "offensive_score": 0.3221316
+    },
+    {
+        "word": "swamped",
+        "offensive_score": 0.12194366
+    },
+    {
+        "word": "sweaty",
+        "offensive_score": 0.06736661
+    },
+    {
+        "word": "swelled",
+        "offensive_score": 0.068319164
+    },
+    {
+        "word": "swelling",
+        "offensive_score": 0.036452465
+    },
+    {
+        "word": "swindle",
+        "offensive_score": 0.1533659
+    },
+    {
+        "word": "swipe",
+        "offensive_score": 0.050244927
+    },
+    {
+        "word": "swollen",
+        "offensive_score": 0.07313756
+    },
+    {
+        "word": "symptom",
+        "offensive_score": 0.02444356
+    },
+    {
+        "word": "symptoms",
+        "offensive_score": 0.018213937
+    },
+    {
+        "word": "syndrome",
+        "offensive_score": 0.0668055
+    },
+    {
+        "word": "taboo",
+        "offensive_score": 0.07075044
+    },
+    {
+        "word": "tacky",
+        "offensive_score": 0.31369403
+    },
+    {
+        "word": "taint",
+        "offensive_score": 0.20742704
+    },
+    {
+        "word": "tainted",
+        "offensive_score": 0.18845408
+    },
+    {
+        "word": "tamper",
+        "offensive_score": 0.069570884
+    },
+    {
+        "word": "tangle",
+        "offensive_score": 0.03793833
+    },
+    {
+        "word": "tangled",
+        "offensive_score": 0.064435475
+    },
+    {
+        "word": "tangles",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "tank",
+        "offensive_score": 0.020433895
+    },
+    {
+        "word": "tanked",
+        "offensive_score": 0.09671168
+    },
+    {
+        "word": "tanks",
+        "offensive_score": 0.028283173
+    },
+    {
+        "word": "tantrum",
+        "offensive_score": 0.07251779
+    },
+    {
+        "word": "tardy",
+        "offensive_score": 0.09056031
+    },
+    {
+        "word": "tarnish",
+        "offensive_score": 0.072554395
+    },
+    {
+        "word": "tarnished",
+        "offensive_score": 0.114558
+    },
+    {
+        "word": "tarnishes",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "tarnishing",
+        "offensive_score": 0.08968994
+    },
+    {
+        "word": "tattered",
+        "offensive_score": 0.081603855
+    },
+    {
+        "word": "taunt",
+        "offensive_score": 0.14296246
+    },
+    {
+        "word": "taunting",
+        "offensive_score": 0.26181737
+    },
+    {
+        "word": "tauntingly",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "taunts",
+        "offensive_score": 0.15511002
+    },
+    {
+        "word": "taut",
+        "offensive_score": 0.049857374
+    },
+    {
+        "word": "tawdry",
+        "offensive_score": 0.107205264
+    },
+    {
+        "word": "taxing",
+        "offensive_score": 0.032542314
+    },
+    {
+        "word": "tease",
+        "offensive_score": 0.13693494
+    },
+    {
+        "word": "teasingly",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "tedious",
+        "offensive_score": 0.07290926
+    },
+    {
+        "word": "tediously",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "temerity",
+        "offensive_score": 0.06935657
+    },
+    {
+        "word": "temper",
+        "offensive_score": 0.089578405
+    },
+    {
+        "word": "tempest",
+        "offensive_score": 0.06037025
+    },
+    {
+        "word": "temptation",
+        "offensive_score": 0.046044398
+    },
+    {
+        "word": "tenderness",
+        "offensive_score": 0.02430609
+    },
+    {
+        "word": "tense",
+        "offensive_score": 0.039685912
+    },
+    {
+        "word": "tension",
+        "offensive_score": 0.04972889
+    },
+    {
+        "word": "tentative",
+        "offensive_score": 0.038196415
+    },
+    {
+        "word": "tentatively",
+        "offensive_score": 0.032309126
+    },
+    {
+        "word": "tenuous",
+        "offensive_score": 0.05129194
+    },
+    {
+        "word": "tenuously",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "tepid",
+        "offensive_score": 0.059131227
+    },
+    {
+        "word": "terrible",
+        "offensive_score": 0.32229307
+    },
+    {
+        "word": "terribleness",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "terribly",
+        "offensive_score": 0.07928336
+    },
+    {
+        "word": "terror",
+        "offensive_score": 0.12829901
+    },
+    {
+        "word": "terror-genic",
+        "offensive_score": 0.28132936
+    },
+    {
+        "word": "terrorism",
+        "offensive_score": 0.44162488
+    },
+    {
+        "word": "terrorize",
+        "offensive_score": 0.43553537
+    },
+    {
+        "word": "testily",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "testy",
+        "offensive_score": 0.10056048
+    },
+    {
+        "word": "tetchily",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "tetchy",
+        "offensive_score": 0.192523
+    },
+    {
+        "word": "thankless",
+        "offensive_score": 0.12420237
+    },
+    {
+        "word": "thicker",
+        "offensive_score": 0.06906376
+    },
+    {
+        "word": "thirst",
+        "offensive_score": 0.018733637
+    },
+    {
+        "word": "thorny",
+        "offensive_score": 0.051227063
+    },
+    {
+        "word": "thoughtless",
+        "offensive_score": 0.28608066
+    },
+    {
+        "word": "thoughtlessly",
+        "offensive_score": 0.11817687
+    },
+    {
+        "word": "thoughtlessness",
+        "offensive_score": 0.122836314
+    },
+    {
+        "word": "thrash",
+        "offensive_score": 0.36624748
+    },
+    {
+        "word": "threat",
+        "offensive_score": 0.1796096
+    },
+    {
+        "word": "threaten",
+        "offensive_score": 0.16894862
+    },
+    {
+        "word": "threatening",
+        "offensive_score": 0.267503
+    },
+    {
+        "word": "threats",
+        "offensive_score": 0.21249695
+    },
+    {
+        "word": "threesome",
+        "offensive_score": 0.15601814
+    },
+    {
+        "word": "throb",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "throbbed",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "throbbing",
+        "offensive_score": 0.21273091
+    },
+    {
+        "word": "throbs",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "throttle",
+        "offensive_score": 0.07254028
+    },
+    {
+        "word": "thug",
+        "offensive_score": 0.61876345
+    },
+    {
+        "word": "thumb-down",
+        "offensive_score": 0.07866489
+    },
+    {
+        "word": "thumbs-down",
+        "offensive_score": 0.118608005
+    },
+    {
+        "word": "thwart",
+        "offensive_score": 0.05927621
+    },
+    {
+        "word": "time-consuming",
+        "offensive_score": 0.08483793
+    },
+    {
+        "word": "timid",
+        "offensive_score": 0.09142922
+    },
+    {
+        "word": "timidity",
+        "offensive_score": 0.08803837
+    },
+    {
+        "word": "timidly",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "timidness",
+        "offensive_score": 0.20562
+    },
+    {
+        "word": "tin-y",
+        "offensive_score": 0.046481583
+    },
+    {
+        "word": "tingled",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "tingling",
+        "offensive_score": 0.09104915
+    },
+    {
+        "word": "tired",
+        "offensive_score": 0.06594091
+    },
+    {
+        "word": "tiresome",
+        "offensive_score": 0.22714615
+    },
+    {
+        "word": "tiring",
+        "offensive_score": 0.058902998
+    },
+    {
+        "word": "tiringly",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "toil",
+        "offensive_score": 0.014056089
+    },
+    {
+        "word": "toll",
+        "offensive_score": 0.03730991
+    },
+    {
+        "word": "top-heavy",
+        "offensive_score": 0.061299156
+    },
+    {
+        "word": "topple",
+        "offensive_score": 0.12212455
+    },
+    {
+        "word": "torment",
+        "offensive_score": 0.14269799
+    },
+    {
+        "word": "tormented",
+        "offensive_score": 0.16082175
+    },
+    {
+        "word": "torrent",
+        "offensive_score": 0.06471681
+    },
+    {
+        "word": "tortuous",
+        "offensive_score": 0.067445055
+    },
+    {
+        "word": "torture",
+        "offensive_score": 0.2890614
+    },
+    {
+        "word": "tortured",
+        "offensive_score": 0.22497053
+    },
+    {
+        "word": "tortures",
+        "offensive_score": 0.3716306
+    },
+    {
+        "word": "torturing",
+        "offensive_score": 0.45141152
+    },
+    {
+        "word": "torturous",
+        "offensive_score": 0.13325433
+    },
+    {
+        "word": "torturously",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "totalitarian",
+        "offensive_score": 0.03665363
+    },
+    {
+        "word": "touchy",
+        "offensive_score": 0.08132647
+    },
+    {
+        "word": "toughness",
+        "offensive_score": 0.039776918
+    },
+    {
+        "word": "tout",
+        "offensive_score": 0.034426592
+    },
+    {
+        "word": "touted",
+        "offensive_score": 0.026887633
+    },
+    {
+        "word": "touts",
+        "offensive_score": 0.02495106
+    },
+    {
+        "word": "toxic",
+        "offensive_score": 0.19771546
+    },
+    {
+        "word": "traduce",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "tragedy",
+        "offensive_score": 0.12725547
+    },
+    {
+        "word": "tragic",
+        "offensive_score": 0.07752008
+    },
+    {
+        "word": "tragically",
+        "offensive_score": 0.14881593
+    },
+    {
+        "word": "traitor",
+        "offensive_score": 0.61922467
+    },
+    {
+        "word": "traitorous",
+        "offensive_score": 0.4414736
+    },
+    {
+        "word": "traitorously",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "tramp",
+        "offensive_score": 0.5352593
+    },
+    {
+        "word": "trample",
+        "offensive_score": 0.116912104
+    },
+    {
+        "word": "transgress",
+        "offensive_score": 0.06789083
+    },
+    {
+        "word": "transgression",
+        "offensive_score": 0.078411415
+    },
+    {
+        "word": "trap",
+        "offensive_score": 0.062109224
+    },
+    {
+        "word": "traped",
+        "offensive_score": 0.20223662
+    },
+    {
+        "word": "trapped",
+        "offensive_score": 0.10153823
+    },
+    {
+        "word": "trash",
+        "offensive_score": 0.7143426
+    },
+    {
+        "word": "trashed",
+        "offensive_score": 0.19047093
+    },
+    {
+        "word": "trashy",
+        "offensive_score": 0.6519473
+    },
+    {
+        "word": "trauma",
+        "offensive_score": 0.022961676
+    },
+    {
+        "word": "traumatic",
+        "offensive_score": 0.06640298
+    },
+    {
+        "word": "traumatically",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "traumatize",
+        "offensive_score": 0.23239553
+    },
+    {
+        "word": "traumatized",
+        "offensive_score": 0.19658634
+    },
+    {
+        "word": "travesties",
+        "offensive_score": 0.20838611
+    },
+    {
+        "word": "travesty",
+        "offensive_score": 0.39183483
+    },
+    {
+        "word": "treacherous",
+        "offensive_score": 0.5166921
+    },
+    {
+        "word": "treacherously",
+        "offensive_score": 0.19252303
+    },
+    {
+        "word": "treachery",
+        "offensive_score": 0.13670522
+    },
+    {
+        "word": "treason",
+        "offensive_score": 0.2331554
+    },
+    {
+        "word": "treasonous",
+        "offensive_score": 0.3747805
+    },
+    {
+        "word": "trick",
+        "offensive_score": 0.05317584
+    },
+    {
+        "word": "tricked",
+        "offensive_score": 0.06331549
+    },
+    {
+        "word": "trickery",
+        "offensive_score": 0.08996848
+    },
+    {
+        "word": "tricky",
+        "offensive_score": 0.064621165
+    },
+    {
+        "word": "trivial",
+        "offensive_score": 0.04815904
+    },
+    {
+        "word": "trivialize",
+        "offensive_score": 0.1180682
+    },
+    {
+        "word": "trouble",
+        "offensive_score": 0.091732405
+    },
+    {
+        "word": "troubled",
+        "offensive_score": 0.06905853
+    },
+    {
+        "word": "troublemaker",
+        "offensive_score": 0.24561298
+    },
+    {
+        "word": "troubles",
+        "offensive_score": 0.04671577
+    },
+    {
+        "word": "troublesome",
+        "offensive_score": 0.07597436
+    },
+    {
+        "word": "troublesomely",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "troubling",
+        "offensive_score": 0.06652465
+    },
+    {
+        "word": "troublingly",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "truant",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "tumble",
+        "offensive_score": 0.048268665
+    },
+    {
+        "word": "tumbled",
+        "offensive_score": 0.0699187
+    },
+    {
+        "word": "tumbles",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "tumultuous",
+        "offensive_score": 0.058732655
+    },
+    {
+        "word": "turbulent",
+        "offensive_score": 0.032678936
+    },
+    {
+        "word": "turmoil",
+        "offensive_score": 0.07008397
+    },
+    {
+        "word": "twist",
+        "offensive_score": 0.05288768
+    },
+    {
+        "word": "twisted",
+        "offensive_score": 0.20751229
+    },
+    {
+        "word": "twists",
+        "offensive_score": 0.039788652
+    },
+    {
+        "word": "two-faced",
+        "offensive_score": 0.23047633
+    },
+    {
+        "word": "two-faces",
+        "offensive_score": 0.06922537
+    },
+    {
+        "word": "tyrannical",
+        "offensive_score": 0.27750206
+    },
+    {
+        "word": "tyrannically",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "tyranny",
+        "offensive_score": 0.19076759
+    },
+    {
+        "word": "tyrant",
+        "offensive_score": 0.38865745
+    },
+    {
+        "word": "ugh",
+        "offensive_score": 0.08247689
+    },
+    {
+        "word": "uglier",
+        "offensive_score": 0.6079781
+    },
+    {
+        "word": "ugliest",
+        "offensive_score": 0.8340561
+    },
+    {
+        "word": "ugliness",
+        "offensive_score": 0.32168636
+    },
+    {
+        "word": "ugly",
+        "offensive_score": 0.76078004
+    },
+    {
+        "word": "ulterior",
+        "offensive_score": 0.053846933
+    },
+    {
+        "word": "ultimatum",
+        "offensive_score": 0.074116424
+    },
+    {
+        "word": "ultimatums",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "ultra-hardline",
+        "offensive_score": 0.123057105
+    },
+    {
+        "word": "unable",
+        "offensive_score": 0.034022283
+    },
+    {
+        "word": "unacceptable",
+        "offensive_score": 0.067384325
+    },
+    {
+        "word": "unacceptablely",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "unacceptably",
+        "offensive_score": 0.08222003
+    },
+    {
+        "word": "unaccessible",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "unaccustomed",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "unachievable",
+        "offensive_score": 0.13553813
+    },
+    {
+        "word": "unaffordable",
+        "offensive_score": 0.158094
+    },
+    {
+        "word": "unappealing",
+        "offensive_score": 0.32121828
+    },
+    {
+        "word": "unattractive",
+        "offensive_score": 0.2912164
+    },
+    {
+        "word": "unauthentic",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "unavailable",
+        "offensive_score": 0.037182294
+    },
+    {
+        "word": "unavoidably",
+        "offensive_score": 0.01304169
+    },
+    {
+        "word": "unbearable",
+        "offensive_score": 0.25045785
+    },
+    {
+        "word": "unbearablely",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "unbelievable",
+        "offensive_score": 0.07170866
+    },
+    {
+        "word": "unbelievably",
+        "offensive_score": 0.06701197
+    },
+    {
+        "word": "uncaring",
+        "offensive_score": 0.07608883
+    },
+    {
+        "word": "uncertain",
+        "offensive_score": 0.0496965
+    },
+    {
+        "word": "uncivil",
+        "offensive_score": 0.3845822
+    },
+    {
+        "word": "uncivilized",
+        "offensive_score": 0.23286596
+    },
+    {
+        "word": "unclean",
+        "offensive_score": 0.30014384
+    },
+    {
+        "word": "unclear",
+        "offensive_score": 0.059743613
+    },
+    {
+        "word": "uncollectible",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "uncomfortable",
+        "offensive_score": 0.07344145
+    },
+    {
+        "word": "uncomfortably",
+        "offensive_score": 0.06771471
+    },
+    {
+        "word": "uncomfy",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "uncompetitive",
+        "offensive_score": 0.1347563
+    },
+    {
+        "word": "uncompromising",
+        "offensive_score": 0.036519304
+    },
+    {
+        "word": "uncompromisingly",
+        "offensive_score": 0.20838612
+    },
+    {
+        "word": "unconfirmed",
+        "offensive_score": 0.037031706
+    },
+    {
+        "word": "unconstitutional",
+        "offensive_score": 0.20409936
+    },
+    {
+        "word": "uncontrolled",
+        "offensive_score": 0.03891593
+    },
+    {
+        "word": "unconvincing",
+        "offensive_score": 0.097976275
+    },
+    {
+        "word": "unconvincingly",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "uncooperative",
+        "offensive_score": 0.046960205
+    },
+    {
+        "word": "uncouth",
+        "offensive_score": 0.11253067
+    },
+    {
+        "word": "uncreative",
+        "offensive_score": 0.076730035
+    },
+    {
+        "word": "undecided",
+        "offensive_score": 0.043123595
+    },
+    {
+        "word": "undefined",
+        "offensive_score": 0.051451325
+    },
+    {
+        "word": "undependability",
+        "offensive_score": 0.192523
+    },
+    {
+        "word": "undependable",
+        "offensive_score": 0.19252308
+    },
+    {
+        "word": "undercut",
+        "offensive_score": 0.0628829
+    },
+    {
+        "word": "undercuts",
+        "offensive_score": 0.05268177
+    },
+    {
+        "word": "undercutting",
+        "offensive_score": 0.054199018
+    },
+    {
+        "word": "underdog",
+        "offensive_score": 0.15669978
+    },
+    {
+        "word": "underestimate",
+        "offensive_score": 0.021883627
+    },
+    {
+        "word": "underlings",
+        "offensive_score": 0.2796216
+    },
+    {
+        "word": "undermine",
+        "offensive_score": 0.079244055
+    },
+    {
+        "word": "undermined",
+        "offensive_score": 0.07548476
+    },
+    {
+        "word": "undermines",
+        "offensive_score": 0.078714505
+    },
+    {
+        "word": "undermining",
+        "offensive_score": 0.08097157
+    },
+    {
+        "word": "underpaid",
+        "offensive_score": 0.06524244
+    },
+    {
+        "word": "underpowered",
+        "offensive_score": 0.027871704
+    },
+    {
+        "word": "undersized",
+        "offensive_score": 0.06916223
+    },
+    {
+        "word": "undesirable",
+        "offensive_score": 0.36928105
+    },
+    {
+        "word": "undetermined",
+        "offensive_score": 0.05695112
+    },
+    {
+        "word": "undid",
+        "offensive_score": 0.07388742
+    },
+    {
+        "word": "undignified",
+        "offensive_score": 0.24011819
+    },
+    {
+        "word": "undissolved",
+        "offensive_score": 0.20838612
+    },
+    {
+        "word": "undocumented",
+        "offensive_score": 0.15747206
+    },
+    {
+        "word": "undone",
+        "offensive_score": 0.062175963
+    },
+    {
+        "word": "undue",
+        "offensive_score": 0.018568981
+    },
+    {
+        "word": "unease",
+        "offensive_score": 0.064464994
+    },
+    {
+        "word": "uneasily",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "uneasiness",
+        "offensive_score": 0.043228924
+    },
+    {
+        "word": "uneasy",
+        "offensive_score": 0.09505119
+    },
+    {
+        "word": "uneconomical",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "unemployed",
+        "offensive_score": 0.052171133
+    },
+    {
+        "word": "unequal",
+        "offensive_score": 0.010082625
+    },
+    {
+        "word": "unethical",
+        "offensive_score": 0.07275775
+    },
+    {
+        "word": "uneven",
+        "offensive_score": 0.019254228
+    },
+    {
+        "word": "uneventful",
+        "offensive_score": 0.020050177
+    },
+    {
+        "word": "unexpected",
+        "offensive_score": 0.028814007
+    },
+    {
+        "word": "unexpectedly",
+        "offensive_score": 0.02730601
+    },
+    {
+        "word": "unexplained",
+        "offensive_score": 0.034889515
+    },
+    {
+        "word": "unfairly",
+        "offensive_score": 0.028369416
+    },
+    {
+        "word": "unfaithful",
+        "offensive_score": 0.12377364
+    },
+    {
+        "word": "unfaithfully",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "unfamiliar",
+        "offensive_score": 0.03424688
+    },
+    {
+        "word": "unfavorable",
+        "offensive_score": 0.038220238
+    },
+    {
+        "word": "unfeeling",
+        "offensive_score": 0.33419412
+    },
+    {
+        "word": "unfinished",
+        "offensive_score": 0.18579261
+    },
+    {
+        "word": "unfit",
+        "offensive_score": 0.08334243
+    },
+    {
+        "word": "unforeseen",
+        "offensive_score": 0.025514068
+    },
+    {
+        "word": "unforgiving",
+        "offensive_score": 0.07211866
+    },
+    {
+        "word": "unfortunate",
+        "offensive_score": 0.13315041
+    },
+    {
+        "word": "unfortunately",
+        "offensive_score": 0.07707074
+    },
+    {
+        "word": "unfounded",
+        "offensive_score": 0.06511503
+    },
+    {
+        "word": "unfriendly",
+        "offensive_score": 0.19373262
+    },
+    {
+        "word": "unfulfilled",
+        "offensive_score": 0.0790663
+    },
+    {
+        "word": "unfunded",
+        "offensive_score": 0.07477606
+    },
+    {
+        "word": "ungovernable",
+        "offensive_score": 0.22619854
+    },
+    {
+        "word": "ungrateful",
+        "offensive_score": 0.3972035
+    },
+    {
+        "word": "unhappily",
+        "offensive_score": 0.06465471
+    },
+    {
+        "word": "unhappiness",
+        "offensive_score": 0.108639434
+    },
+    {
+        "word": "unhappy",
+        "offensive_score": 0.26796556
+    },
+    {
+        "word": "unhealthy",
+        "offensive_score": 0.1167508
+    },
+    {
+        "word": "unhelpful",
+        "offensive_score": 0.42580616
+    },
+    {
+        "word": "unilateralism",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "unimaginable",
+        "offensive_score": 0.10252782
+    },
+    {
+        "word": "unimaginably",
+        "offensive_score": 0.027998356
+    },
+    {
+        "word": "unimportant",
+        "offensive_score": 0.21998191
+    },
+    {
+        "word": "uninformed",
+        "offensive_score": 0.07015992
+    },
+    {
+        "word": "uninsured",
+        "offensive_score": 0.08239882
+    },
+    {
+        "word": "unintelligible",
+        "offensive_score": 0.103455156
+    },
+    {
+        "word": "unintelligile",
+        "offensive_score": 0.19252308
+    },
+    {
+        "word": "unipolar",
+        "offensive_score": 0.20223655
+    },
+    {
+        "word": "unjust",
+        "offensive_score": 0.0610782
+    },
+    {
+        "word": "unjustifiable",
+        "offensive_score": 0.08061236
+    },
+    {
+        "word": "unjustifiably",
+        "offensive_score": 0.094800375
+    },
+    {
+        "word": "unjustified",
+        "offensive_score": 0.046816308
+    },
+    {
+        "word": "unjustly",
+        "offensive_score": 0.056456357
+    },
+    {
+        "word": "unkind",
+        "offensive_score": 0.18604732
+    },
+    {
+        "word": "unkindly",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "unknown",
+        "offensive_score": 0.045263503
+    },
+    {
+        "word": "unlamentable",
+        "offensive_score": 0.21229206
+    },
+    {
+        "word": "unlamentably",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "unlawful",
+        "offensive_score": 0.09060022
+    },
+    {
+        "word": "unlawfully",
+        "offensive_score": 0.07389025
+    },
+    {
+        "word": "unlawfulness",
+        "offensive_score": 0.20223655
+    },
+    {
+        "word": "unleash",
+        "offensive_score": 0.06424985
+    },
+    {
+        "word": "unlicensed",
+        "offensive_score": 0.07377416
+    },
+    {
+        "word": "unlikely",
+        "offensive_score": 0.02659806
+    },
+    {
+        "word": "unlucky",
+        "offensive_score": 0.12011832
+    },
+    {
+        "word": "unmoved",
+        "offensive_score": 0.08028516
+    },
+    {
+        "word": "unnatural",
+        "offensive_score": 0.06576547
+    },
+    {
+        "word": "unnaturally",
+        "offensive_score": 0.027767908
+    },
+    {
+        "word": "unnecessary",
+        "offensive_score": 0.0566617
+    },
+    {
+        "word": "unneeded",
+        "offensive_score": 0.07437026
+    },
+    {
+        "word": "unnerve",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "unnerved",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "unnerving",
+        "offensive_score": 0.090154976
+    },
+    {
+        "word": "unnervingly",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "unnoticed",
+        "offensive_score": 0.06880622
+    },
+    {
+        "word": "unobserved",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "unorthodox",
+        "offensive_score": 0.03199403
+    },
+    {
+        "word": "unorthodoxy",
+        "offensive_score": 0.19252308
+    },
+    {
+        "word": "unpleasant",
+        "offensive_score": 0.1958249
+    },
+    {
+        "word": "unpleasantries",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "unpopular",
+        "offensive_score": 0.0835759
+    },
+    {
+        "word": "unpredictable",
+        "offensive_score": 0.09065554
+    },
+    {
+        "word": "unprepared",
+        "offensive_score": 0.069366574
+    },
+    {
+        "word": "unproductive",
+        "offensive_score": 0.027154868
+    },
+    {
+        "word": "unprofitable",
+        "offensive_score": 0.16177261
+    },
+    {
+        "word": "unprove",
+        "offensive_score": 0.19252308
+    },
+    {
+        "word": "unproved",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "unproven",
+        "offensive_score": 0.021369977
+    },
+    {
+        "word": "unproves",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "unproving",
+        "offensive_score": 0.19252303
+    },
+    {
+        "word": "unqualified",
+        "offensive_score": 0.09359008
+    },
+    {
+        "word": "unravel",
+        "offensive_score": 0.045469757
+    },
+    {
+        "word": "unraveled",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "unreachable",
+        "offensive_score": 0.059368577
+    },
+    {
+        "word": "unreadable",
+        "offensive_score": 0.085739635
+    },
+    {
+        "word": "unrealistic",
+        "offensive_score": 0.041656896
+    },
+    {
+        "word": "unreasonable",
+        "offensive_score": 0.051660817
+    },
+    {
+        "word": "unreasonably",
+        "offensive_score": 0.012930411
+    },
+    {
+        "word": "unrelenting",
+        "offensive_score": 0.09237748
+    },
+    {
+        "word": "unrelentingly",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "unreliability",
+        "offensive_score": 0.041065585
+    },
+    {
+        "word": "unreliable",
+        "offensive_score": 0.062246006
+    },
+    {
+        "word": "unresolved",
+        "offensive_score": 0.063510105
+    },
+    {
+        "word": "unresponsive",
+        "offensive_score": 0.04099223
+    },
+    {
+        "word": "unrest",
+        "offensive_score": 0.11573986
+    },
+    {
+        "word": "unruly",
+        "offensive_score": 0.11725657
+    },
+    {
+        "word": "unsafe",
+        "offensive_score": 0.033226926
+    },
+    {
+        "word": "unsatisfactory",
+        "offensive_score": 0.06417301
+    },
+    {
+        "word": "unsavory",
+        "offensive_score": 0.1693366
+    },
+    {
+        "word": "unscrupulous",
+        "offensive_score": 0.16784614
+    },
+    {
+        "word": "unscrupulously",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "unsecure",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "unseemly",
+        "offensive_score": 0.08960509
+    },
+    {
+        "word": "unsettle",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "unsettled",
+        "offensive_score": 0.04014694
+    },
+    {
+        "word": "unsettling",
+        "offensive_score": 0.06455417
+    },
+    {
+        "word": "unsettlingly",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "unskilled",
+        "offensive_score": 0.070266455
+    },
+    {
+        "word": "unsophisticated",
+        "offensive_score": 0.07131568
+    },
+    {
+        "word": "unsound",
+        "offensive_score": 0.08512262
+    },
+    {
+        "word": "unspeakable",
+        "offensive_score": 0.122313954
+    },
+    {
+        "word": "unspeakablely",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "unspecified",
+        "offensive_score": 0.03133621
+    },
+    {
+        "word": "unstable",
+        "offensive_score": 0.10835802
+    },
+    {
+        "word": "unsteadily",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "unsteadiness",
+        "offensive_score": 0.20147702
+    },
+    {
+        "word": "unsteady",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "unsuccessful",
+        "offensive_score": 0.1193641
+    },
+    {
+        "word": "unsuccessfully",
+        "offensive_score": 0.056527585
+    },
+    {
+        "word": "unsupported",
+        "offensive_score": 0.010883437
+    },
+    {
+        "word": "unsupportive",
+        "offensive_score": 0.11084049
+    },
+    {
+        "word": "unsure",
+        "offensive_score": 0.053545892
+    },
+    {
+        "word": "unsuspecting",
+        "offensive_score": 0.17526245
+    },
+    {
+        "word": "unsustainable",
+        "offensive_score": 0.020019785
+    },
+    {
+        "word": "untenable",
+        "offensive_score": 0.069218844
+    },
+    {
+        "word": "untested",
+        "offensive_score": 0.013262123
+    },
+    {
+        "word": "unthinkable",
+        "offensive_score": 0.069792785
+    },
+    {
+        "word": "unthinkably",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "untimely",
+        "offensive_score": 0.06781434
+    },
+    {
+        "word": "untouched",
+        "offensive_score": 0.0655232
+    },
+    {
+        "word": "untrue",
+        "offensive_score": 0.070118256
+    },
+    {
+        "word": "untrustworthy",
+        "offensive_score": 0.11730187
+    },
+    {
+        "word": "untruthful",
+        "offensive_score": 0.12441585
+    },
+    {
+        "word": "unusable",
+        "offensive_score": 0.11151682
+    },
+    {
+        "word": "unusably",
+        "offensive_score": 0.19252308
+    },
+    {
+        "word": "unuseable",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "unuseably",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "unusual",
+        "offensive_score": 0.019732729
+    },
+    {
+        "word": "unusually",
+        "offensive_score": 0.013766276
+    },
+    {
+        "word": "unviewable",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "unwanted",
+        "offensive_score": 0.09676522
+    },
+    {
+        "word": "unwarranted",
+        "offensive_score": 0.06447559
+    },
+    {
+        "word": "unwelcome",
+        "offensive_score": 0.12080526
+    },
+    {
+        "word": "unwell",
+        "offensive_score": 0.06341658
+    },
+    {
+        "word": "unwieldy",
+        "offensive_score": 0.06725864
+    },
+    {
+        "word": "unwilling",
+        "offensive_score": 0.04993477
+    },
+    {
+        "word": "unwillingly",
+        "offensive_score": 0.04852356
+    },
+    {
+        "word": "unwillingness",
+        "offensive_score": 0.04379539
+    },
+    {
+        "word": "unwise",
+        "offensive_score": 0.053650554
+    },
+    {
+        "word": "unwisely",
+        "offensive_score": 0.034779582
+    },
+    {
+        "word": "unworkable",
+        "offensive_score": 0.11869696
+    },
+    {
+        "word": "unworthy",
+        "offensive_score": 0.20129459
+    },
+    {
+        "word": "unyielding",
+        "offensive_score": 0.05622131
+    },
+    {
+        "word": "upbraid",
+        "offensive_score": 0.20838612
+    },
+    {
+        "word": "upheaval",
+        "offensive_score": 0.034079514
+    },
+    {
+        "word": "uprising",
+        "offensive_score": 0.056897137
+    },
+    {
+        "word": "uproar",
+        "offensive_score": 0.08745364
+    },
+    {
+        "word": "uproarious",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "uproariously",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "uproarous",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "uproarously",
+        "offensive_score": 0.19252308
+    },
+    {
+        "word": "uproot",
+        "offensive_score": 0.053984053
+    },
+    {
+        "word": "upset",
+        "offensive_score": 0.07782059
+    },
+    {
+        "word": "upseting",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "upsets",
+        "offensive_score": 0.18942216
+    },
+    {
+        "word": "upsetting",
+        "offensive_score": 0.11884001
+    },
+    {
+        "word": "upsettingly",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "urgent",
+        "offensive_score": 0.028610924
+    },
+    {
+        "word": "useless",
+        "offensive_score": 0.7084207
+    },
+    {
+        "word": "usurp",
+        "offensive_score": 0.067808494
+    },
+    {
+        "word": "usurper",
+        "offensive_score": 0.21076003
+    },
+    {
+        "word": "utterly",
+        "offensive_score": 0.054705866
+    },
+    {
+        "word": "vagrant",
+        "offensive_score": 0.192523
+    },
+    {
+        "word": "vague",
+        "offensive_score": 0.27923444
+    },
+    {
+        "word": "vagueness",
+        "offensive_score": 0.038451105
+    },
+    {
+        "word": "vain",
+        "offensive_score": 0.062295817
+    },
+    {
+        "word": "vainly",
+        "offensive_score": 0.06743043
+    },
+    {
+        "word": "vanity",
+        "offensive_score": 0.04025469
+    },
+    {
+        "word": "vehement",
+        "offensive_score": 0.11792151
+    },
+    {
+        "word": "vehemently",
+        "offensive_score": 0.042343218
+    },
+    {
+        "word": "vengeance",
+        "offensive_score": 0.22295365
+    },
+    {
+        "word": "vengeful",
+        "offensive_score": 0.29118943
+    },
+    {
+        "word": "vengefully",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "vengefulness",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "venom",
+        "offensive_score": 0.07502368
+    },
+    {
+        "word": "venomous",
+        "offensive_score": 0.17757365
+    },
+    {
+        "word": "venomously",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "vent",
+        "offensive_score": 0.047522202
+    },
+    {
+        "word": "vestiges",
+        "offensive_score": 0.1242349
+    },
+    {
+        "word": "vex",
+        "offensive_score": 0.10898783
+    },
+    {
+        "word": "vexation",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "vexing",
+        "offensive_score": 0.060006574
+    },
+    {
+        "word": "vexingly",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "vibrate",
+        "offensive_score": 0.056667786
+    },
+    {
+        "word": "vibrated",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "vibrates",
+        "offensive_score": 0.19252308
+    },
+    {
+        "word": "vibrating",
+        "offensive_score": 0.06972842
+    },
+    {
+        "word": "vibration",
+        "offensive_score": 0.018330226
+    },
+    {
+        "word": "vice",
+        "offensive_score": 0.018422736
+    },
+    {
+        "word": "vicious",
+        "offensive_score": 0.3218818
+    },
+    {
+        "word": "viciously",
+        "offensive_score": 0.071295366
+    },
+    {
+        "word": "viciousness",
+        "offensive_score": 0.21443225
+    },
+    {
+        "word": "victimize",
+        "offensive_score": 0.2332446
+    },
+    {
+        "word": "vile",
+        "offensive_score": 0.36002564
+    },
+    {
+        "word": "vileness",
+        "offensive_score": 0.2014709
+    },
+    {
+        "word": "vilify",
+        "offensive_score": 0.107982375
+    },
+    {
+        "word": "villainous",
+        "offensive_score": 0.27857974
+    },
+    {
+        "word": "villainously",
+        "offensive_score": 0.20838612
+    },
+    {
+        "word": "villains",
+        "offensive_score": 0.22672714
+    },
+    {
+        "word": "villian",
+        "offensive_score": 0.068083726
+    },
+    {
+        "word": "villianous",
+        "offensive_score": 0.20562
+    },
+    {
+        "word": "villianously",
+        "offensive_score": 0.20562004
+    },
+    {
+        "word": "villify",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "vindictive",
+        "offensive_score": 0.1588084
+    },
+    {
+        "word": "vindictively",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "vindictiveness",
+        "offensive_score": 0.12786725
+    },
+    {
+        "word": "violate",
+        "offensive_score": 0.32164112
+    },
+    {
+        "word": "violation",
+        "offensive_score": 0.13652077
+    },
+    {
+        "word": "violator",
+        "offensive_score": 0.54710925
+    },
+    {
+        "word": "violators",
+        "offensive_score": 0.09097948
+    },
+    {
+        "word": "violent",
+        "offensive_score": 0.2535857
+    },
+    {
+        "word": "violently",
+        "offensive_score": 0.09995379
+    },
+    {
+        "word": "viper",
+        "offensive_score": 0.057003465
+    },
+    {
+        "word": "virulence",
+        "offensive_score": 0.020341786
+    },
+    {
+        "word": "virulent",
+        "offensive_score": 0.11469297
+    },
+    {
+        "word": "virulently",
+        "offensive_score": 0.15726817
+    },
+    {
+        "word": "virus",
+        "offensive_score": 0.04076677
+    },
+    {
+        "word": "vociferous",
+        "offensive_score": 0.13318208
+    },
+    {
+        "word": "vociferously",
+        "offensive_score": 0.058818202
+    },
+    {
+        "word": "volatile",
+        "offensive_score": 0.054525618
+    },
+    {
+        "word": "volatility",
+        "offensive_score": 0.016187461
+    },
+    {
+        "word": "vomit",
+        "offensive_score": 0.3726686
+    },
+    {
+        "word": "vomited",
+        "offensive_score": 0.20420161
+    },
+    {
+        "word": "vomiting",
+        "offensive_score": 0.13795085
+    },
+    {
+        "word": "vomits",
+        "offensive_score": 0.56671685
+    },
+    {
+        "word": "vulgar",
+        "offensive_score": 0.22675489
+    },
+    {
+        "word": "vulnerable",
+        "offensive_score": 0.06491311
+    },
+    {
+        "word": "wack",
+        "offensive_score": 0.13993824
+    },
+    {
+        "word": "wail",
+        "offensive_score": 0.07929533
+    },
+    {
+        "word": "wallow",
+        "offensive_score": 0.08931413
+    },
+    {
+        "word": "wane",
+        "offensive_score": 0.033296574
+    },
+    {
+        "word": "waning",
+        "offensive_score": 0.03778162
+    },
+    {
+        "word": "wanton",
+        "offensive_score": 0.07280128
+    },
+    {
+        "word": "war-like",
+        "offensive_score": 0.12629358
+    },
+    {
+        "word": "warily",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "wariness",
+        "offensive_score": 0.0353518
+    },
+    {
+        "word": "warlike",
+        "offensive_score": 0.06960972
+    },
+    {
+        "word": "warned",
+        "offensive_score": 0.06787172
+    },
+    {
+        "word": "warning",
+        "offensive_score": 0.11205369
+    },
+    {
+        "word": "warp",
+        "offensive_score": 0.060521286
+    },
+    {
+        "word": "warped",
+        "offensive_score": 0.18064232
+    },
+    {
+        "word": "wary",
+        "offensive_score": 0.066096395
+    },
+    {
+        "word": "washed-out",
+        "offensive_score": 0.1574014
+    },
+    {
+        "word": "waste",
+        "offensive_score": 0.15052599
+    },
+    {
+        "word": "wasted",
+        "offensive_score": 0.12718599
+    },
+    {
+        "word": "wasteful",
+        "offensive_score": 0.14252195
+    },
+    {
+        "word": "wastefulness",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "wasting",
+        "offensive_score": 0.13710684
+    },
+    {
+        "word": "water-down",
+        "offensive_score": 0.04856992
+    },
+    {
+        "word": "watered-down",
+        "offensive_score": 0.091808066
+    },
+    {
+        "word": "wayward",
+        "offensive_score": 0.11403597
+    },
+    {
+        "word": "weak",
+        "offensive_score": 0.30929258
+    },
+    {
+        "word": "weaken",
+        "offensive_score": 0.06964097
+    },
+    {
+        "word": "weakening",
+        "offensive_score": 0.052087743
+    },
+    {
+        "word": "weaker",
+        "offensive_score": 0.120483585
+    },
+    {
+        "word": "weakness",
+        "offensive_score": 0.074219584
+    },
+    {
+        "word": "weaknesses",
+        "offensive_score": 0.040927842
+    },
+    {
+        "word": "weariness",
+        "offensive_score": 0.20838605
+    },
+    {
+        "word": "wearisome",
+        "offensive_score": 0.20223652
+    },
+    {
+        "word": "weary",
+        "offensive_score": 0.0846869
+    },
+    {
+        "word": "wedge",
+        "offensive_score": 0.046031613
+    },
+    {
+        "word": "weed",
+        "offensive_score": 0.16586527
+    },
+    {
+        "word": "weep",
+        "offensive_score": 0.09431596
+    },
+    {
+        "word": "weird",
+        "offensive_score": 0.14211331
+    },
+    {
+        "word": "weirdly",
+        "offensive_score": 0.02209781
+    },
+    {
+        "word": "wheedle",
+        "offensive_score": 0.19252308
+    },
+    {
+        "word": "whimper",
+        "offensive_score": 0.11029883
+    },
+    {
+        "word": "whine",
+        "offensive_score": 0.19166243
+    },
+    {
+        "word": "whining",
+        "offensive_score": 0.17546466
+    },
+    {
+        "word": "whiny",
+        "offensive_score": 0.2828924
+    },
+    {
+        "word": "whips",
+        "offensive_score": 0.13762894
+    },
+    {
+        "word": "whore",
+        "offensive_score": 0.97159445
+    },
+    {
+        "word": "whores",
+        "offensive_score": 0.95474184
+    },
+    {
+        "word": "wicked",
+        "offensive_score": 0.38531798
+    },
+    {
+        "word": "wickedly",
+        "offensive_score": 0.06230861
+    },
+    {
+        "word": "wickedness",
+        "offensive_score": 0.27738222
+    },
+    {
+        "word": "wild",
+        "offensive_score": 0.082190916
+    },
+    {
+        "word": "wildly",
+        "offensive_score": 0.066252895
+    },
+    {
+        "word": "wiles",
+        "offensive_score": 0.059034225
+    },
+    {
+        "word": "wilt",
+        "offensive_score": 0.07330063
+    },
+    {
+        "word": "wily",
+        "offensive_score": 0.074590445
+    },
+    {
+        "word": "wimpy",
+        "offensive_score": 0.11613602
+    },
+    {
+        "word": "wince",
+        "offensive_score": 0.18296175
+    },
+    {
+        "word": "wobble",
+        "offensive_score": 0.07076562
+    },
+    {
+        "word": "wobbled",
+        "offensive_score": 0.064855784
+    },
+    {
+        "word": "wobbles",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "woe",
+        "offensive_score": 0.1047393
+    },
+    {
+        "word": "woebegone",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "woeful",
+        "offensive_score": 0.15843368
+    },
+    {
+        "word": "woefully",
+        "offensive_score": 0.03516967
+    },
+    {
+        "word": "womanizer",
+        "offensive_score": 0.07380364
+    },
+    {
+        "word": "womanizing",
+        "offensive_score": 0.06912973
+    },
+    {
+        "word": "worn",
+        "offensive_score": 0.01722841
+    },
+    {
+        "word": "worried",
+        "offensive_score": 0.047686797
+    },
+    {
+        "word": "worriedly",
+        "offensive_score": 0.20147713
+    },
+    {
+        "word": "worrier",
+        "offensive_score": 0.072015226
+    },
+    {
+        "word": "worries",
+        "offensive_score": 0.058118977
+    },
+    {
+        "word": "worrisome",
+        "offensive_score": 0.06083454
+    },
+    {
+        "word": "worry",
+        "offensive_score": 0.037479002
+    },
+    {
+        "word": "worrying",
+        "offensive_score": 0.04116868
+    },
+    {
+        "word": "worryingly",
+        "offensive_score": 0.06428917
+    },
+    {
+        "word": "worse",
+        "offensive_score": 0.23292336
+    },
+    {
+        "word": "worsen",
+        "offensive_score": 0.057215072
+    },
+    {
+        "word": "worsening",
+        "offensive_score": 0.04821932
+    },
+    {
+        "word": "worst",
+        "offensive_score": 0.52284086
+    },
+    {
+        "word": "worthless",
+        "offensive_score": 0.5052268
+    },
+    {
+        "word": "worthlessly",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "worthlessness",
+        "offensive_score": 0.07114636
+    },
+    {
+        "word": "wound",
+        "offensive_score": 0.04877387
+    },
+    {
+        "word": "wounds",
+        "offensive_score": 0.04540915
+    },
+    {
+        "word": "wrangle",
+        "offensive_score": 0.20147707
+    },
+    {
+        "word": "wrath",
+        "offensive_score": 0.20800582
+    },
+    {
+        "word": "wreak",
+        "offensive_score": 0.116910756
+    },
+    {
+        "word": "wreaked",
+        "offensive_score": 0.112684466
+    },
+    {
+        "word": "wreaks",
+        "offensive_score": 0.17086576
+    },
+    {
+        "word": "wreck",
+        "offensive_score": 0.117612064
+    },
+    {
+        "word": "wrest",
+        "offensive_score": 0.06330942
+    },
+    {
+        "word": "wrestle",
+        "offensive_score": 0.047102444
+    },
+    {
+        "word": "wretch",
+        "offensive_score": 0.7162076
+    },
+    {
+        "word": "wretched",
+        "offensive_score": 0.5610718
+    },
+    {
+        "word": "wretchedly",
+        "offensive_score": 0.20562
+    },
+    {
+        "word": "wretchedness",
+        "offensive_score": 0.21684645
+    },
+    {
+        "word": "wrinkle",
+        "offensive_score": 0.057036716
+    },
+    {
+        "word": "wrinkled",
+        "offensive_score": 0.14006922
+    },
+    {
+        "word": "wrinkles",
+        "offensive_score": 0.058581166
+    },
+    {
+        "word": "wrip",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "wripped",
+        "offensive_score": 0.21229202
+    },
+    {
+        "word": "wripping",
+        "offensive_score": 0.20815668
+    },
+    {
+        "word": "writhe",
+        "offensive_score": 0.20510472
+    },
+    {
+        "word": "wrong",
+        "offensive_score": 0.05886514
+    },
+    {
+        "word": "wrongful",
+        "offensive_score": 0.05604027
+    },
+    {
+        "word": "wrongly",
+        "offensive_score": 0.067310944
+    },
+    {
+        "word": "wrought",
+        "offensive_score": 0.036356058
+    },
+    {
+        "word": "yawn",
+        "offensive_score": 0.1223827
+    },
+    {
+        "word": "zap",
+        "offensive_score": 0.0330618
+    },
+    {
+        "word": "zapped",
+        "offensive_score": 0.1120654
+    },
+    {
+        "word": "zaps",
+        "offensive_score": 0.120222434
+    },
+    {
+        "word": "zealot",
+        "offensive_score": 0.38264117
+    },
+    {
+        "word": "zealous",
+        "offensive_score": 0.070611276
+    },
+    {
+        "word": "zealously",
+        "offensive_score": 0.008643302
+    },
+    {
+        "word": "zombie",
+        "offensive_score": 0.12754719
+    }
+]
